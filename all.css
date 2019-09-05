@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(158, 224, 247);
+  }
+  
+  h1 {
+    color: white;
+    margin-left: 40px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  button {
+      cursor: pointer;
+      background-color: dodgerblue;
+      color: whitesmoke;
+      box-shadow: black;
+      border-color: transparent;
+  }
